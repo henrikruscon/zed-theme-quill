@@ -5,9 +5,9 @@
 
 Quill is a soothing theme for [Zed](https://zed.dev) editor. It supports most popular languages out of the box and provides a beautiful, seamless experience.
 
-## Twitter
+## X
 
-Follow [@CraftQuill](https://twitter.com/CraftQuill) on Twitter for the latest updates on Quill.
+Follow [@henrikruscon](https://x.com/henrikruscon) on X for the latest updates on Quill.
 
 ## License
 
